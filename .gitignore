@@ -1,0 +1,5 @@
+slstatus
+slstatus.o
+util.o
+components/*.o
+config.def.h
